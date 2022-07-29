@@ -6,3 +6,4 @@
 2. erd.vuerd.json 파일을 열고 우측 상단의 Open Erd Editor 아이콘을 클릭한다.
 
 
+![erd](./erd.png)
